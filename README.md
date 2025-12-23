@@ -1,2 +1,2 @@
 # New-
-this is learning Repo of github
+this is learning Repo of github.
